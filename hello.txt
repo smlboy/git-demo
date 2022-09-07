@@ -1,0 +1,2 @@
+use vim to creat a file and user i to write some word
+linux minglin to use
